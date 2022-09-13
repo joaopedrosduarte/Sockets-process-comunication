@@ -16,6 +16,6 @@ Entre na pasta do projeto:
 ```
 
 ## Iniciar socket 
-- Inicialmente iniciar server => python .\server.py
+- Primeiramente Iniciar server => python .\server.py
 - Em seguida inciar cliente => python .\client.py ( número de clientes ilimitados na conversa )
-- endereços são gerenciados e mensagens são trocados normalemnete
+- endereços são gerenciados e mensagens são trocados normalmente
