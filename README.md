@@ -1,6 +1,6 @@
 # Trabalho de infra de comunicação 
 
-Nesse repositorio sera mostrado na pratica como implementar o macanismos de comunicação entre processos, do ponto de vista de rede, na linguagem python, tudo com intuito de representar a comunicação e as possiveis variações que podem ocorrer nesse fenomeno como falha de comunicação e erro.
+Nesse repositório será exposto como ocorre os mecanismos de comunicação entre processos, buscando mostrar na perspectiva da rede, tendo como o objetivo principal apresentar como acontece essa comunicação e as possiveis variações que podem advim nesse fenômeno como falha de comunicação e erro.
 
 
 
