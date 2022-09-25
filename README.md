@@ -11,8 +11,8 @@ Nesse repositório será exposto como ocorre os mecanismos de comunicação entr
 ## Usage
 
 Entre na pasta do projeto:
-```
-/Sockets-process-comunication
+```bash
+cd Sockets-process-comunication
 ```
 
 ## Iniciar socket 
