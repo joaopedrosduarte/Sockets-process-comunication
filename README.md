@@ -23,7 +23,7 @@ cd Sockets-process-comunication
 - Em seguida inciar cliente =>``` python .\client.py ```( número de clientes ilimitados na conversa )
 - endereços são gerenciados e mensagens são trocados normalmente
 
-##Erros
+## Tratamemto de Erros / Erros
 Os possíveis erros a serem testados são:
 - ```Erro de Conexão``` 
 - ```Erro de Envio de Pacote```
