@@ -13,12 +13,12 @@ server.bind(ADDR)
 conexoes = []
 mensagens = []
 
-error_send_message= False
+error_send_message= True
 error_connection = False
 error_recepcao = False
 
 def enviar_mensagem_individual(conexao): #envia mensagem para uma pessoa
-    if(error_recepcao):
+    if(error_recepcao or error_send_message ):
             print(f"Falha no envio dos pacotes pelo usuário {conexao['addr']}")
     else:
         print(f"[ENVIANDO] Enviando mensagens para {conexao['addr']}")
