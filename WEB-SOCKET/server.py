@@ -15,7 +15,7 @@ mensagens = []
 
 error_send_message= False
 error_connection = False
-error_recepcao = True
+error_recepcao = False
 
 def enviar_mensagem_individual(conexao): #envia mensagem para uma pessoa
     if(error_recepcao):
