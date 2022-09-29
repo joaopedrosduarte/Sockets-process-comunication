@@ -14,7 +14,7 @@ Entre na pasta do projeto:
 ```bash
 cd Sockets-process-comunication
 ```
-##
+## IP
 - Verificar seu endereço ip para adicionar na variavel ```SERVER``` dentro do arquivo ```client.py```
 
 
