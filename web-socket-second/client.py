@@ -6,6 +6,8 @@ FORMATO = 'utf-8'
 SERVER = "192.168.15.103"
 ADDR = (SERVER, PORT)
 
+error_connection = False
+
 client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 client.connect(ADDR)
 
@@ -34,6 +36,9 @@ def iniciar():
     thread1 = threading.Thread(target=handle_mensagens)
     thread2 = threading.Thread(target=iniciar_envio)
     thread1.start()
-    thread2.start()
+    if(error_connection):
+        print("Erro de conexão com o servidor")
+    else:
+        thread2.start()
 
 iniciar()
