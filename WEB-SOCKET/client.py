@@ -3,7 +3,8 @@ import threading
 
 PORT = 5050
 FORMATO = 'utf-8'
-SERVER = "192.168.15.103"
+# SERVER = "192.168.15.103"
+SERVER = "172.26.13.45"
 ADDR = (SERVER, PORT)
 
 error_connection = False
