@@ -5,7 +5,7 @@ Nesse repositório será exposto como ocorre os mecanismos de comunicação entr
 
 
 
-# Web Socket Second Version
+# Web Socket 
 
 
 ## Usage
