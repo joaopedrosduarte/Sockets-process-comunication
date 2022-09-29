@@ -14,7 +14,8 @@ Entre na pasta do projeto:
 ```bash
 cd Sockets-process-comunication
 ```
-
+##
+- Verificar seu endereço ip para adicionar na variavel ```SERVER``` dentro do arquivo ````client.py```
 ## Iniciar socket 
 - Primeiramente Iniciar server =>``` python .\server.py```
 - Em seguida inciar cliente =>``` python .\client.py ```( número de clientes ilimitados na conversa )
