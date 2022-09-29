@@ -16,6 +16,8 @@ cd Sockets-process-comunication
 ```
 ## IP
 - Verificar seu endereço ip para adicionar na variavel ```SERVER``` dentro do arquivo ```client.py```
+- No console Linux execute o comando “sudo ifconfig” 
+- No console Windows execute o comando ipconfig
 
 
 ## Iniciar socket 
