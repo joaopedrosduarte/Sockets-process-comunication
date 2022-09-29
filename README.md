@@ -54,7 +54,7 @@ já nos outros erros existem apenas a flag no aruivo ```server.py```
 
  ![image](https://user-images.githubusercontent.com/76250531/193141605-78c392d1-54ce-4dfb-85e0-6fc7c75ba597.png)
  
-- Cpacidade de simular Erro na recepção do pacote ou perda do pacote
+- Capacidade de simular Erro na recepção do pacote ou perda do pacote
   ![image](https://user-images.githubusercontent.com/76250531/193142405-f59bec66-5cf7-4e9e-8657-cbafb8dc63db.png)
 
 
